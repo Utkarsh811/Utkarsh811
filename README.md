@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Reactjs website](https://github.com/Utkarsh811/acic_miet_website.git)
 
-- 🌱 I’m currently learning **Reactjs, javascript ,Python, Django**
+- 🌱 I’m currently learning **Reactjs, javascript ,Python, Node , django**
 
 - 📝 I regularly write articles on [https://medium.com/@utkarsh.rastogi.9149](https://medium.com/@utkarsh.rastogi.9149)
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/utkarsh811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/utkarsh811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-rastogi-0138761a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-rastogi-0138761a9/" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/https://dev.to/utkarsh811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/utkarsh811" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-rastogi-0138761a9/" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/utkarsh-rastogi-0138761a9/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@utkarsh.rastogi.9149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@utkarsh.rastogi.9149" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/uc4yvpugkjkpw2roy5-xuxzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc4yvpugkjkpw2roy5-xuxzq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/geek2272000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/geek2272000" height="30" width="40" /></a>
