@@ -10,6 +10,7 @@
 - 💬 Ask me about **Python Intermediate, C++,Reactjs,Javascript,OOPS in Python, Computer Networks**
 
 - 📫 How to reach me **utkarsh.rastogi.10001011@gmail.com**
+- Resume -:https://drive.google.com/file/d/1cYmhUieShR4pTo8_HaG2gMYnn8dfbMIx/view?usp=drivesdk
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
