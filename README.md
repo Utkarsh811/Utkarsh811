@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Rastogi</h1>
-<h3 align="center">A Ctyber Security Enthusiast  from India</h3>
+<h3 align="center">A Cyber Security Enthusiast  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh811&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh811" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh811" alt="utkarsh811" /></a> </p>
 
-- 🌱 I’m currently learning **Java,DSA,React,Javascript**
+- 🌱 I’m currently learning **Cyber Security, Java,DSA,React,Javascript**
 
 - 💬 Ask me about **Python Intermediate, C++,Reactjs,Javascript,OOPS in Python, Computer Networks**
 
