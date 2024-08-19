@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh811" alt="utkarsh811" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security, Java,DSA,React,Javascript**
+- 🌱 I’m currently learning **Cyber Security with skilled in DSA , Programming in C.C++ , JAVA , Python . I have descent knowledge in HTML,CSS Javascript ,React . API Creation ,API testing using postman , Backend development , Spring Springboot . **
+- Leaarning Bash Scripting , Python scripting , Nmap , Cryptography ,Network security , Application security , OWASP Top 10 Vulnerabilities
 
 - 💬 Ask me about **Python Intermediate, C++,Reactjs,Javascript,OOPS in Python, Computer Networks**
 
